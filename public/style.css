@@ -7,9 +7,11 @@ li {
 .label {
   font-weight: bold;
 }
-
+.jumbotron{
+	text-align: center;
+}
 .create-update-form {
-  background: aqua;
+  background: gray;
   margin: 5px;
   padding: 5px;
 }
